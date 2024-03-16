@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/pavan-assessment-frontend/static/css/main.d7f7d52d.css",
+    "main.js": "/pavan-assessment-frontend/static/js/main.b826be69.js",
+    "static/js/453.c1bfc3e2.chunk.js": "/pavan-assessment-frontend/static/js/453.c1bfc3e2.chunk.js",
+    "static/media/full_logo.png": "/pavan-assessment-frontend/static/media/full_logo.db4486c0892318da44fb.png",
+    "static/media/Google.png": "/pavan-assessment-frontend/static/media/Google.dc157a779a1fa4a5c645.png",
+    "static/media/Facebook.png": "/pavan-assessment-frontend/static/media/Facebook.d2eb7288a078c43b0ba2.png",
+    "static/media/logo.svg": "/pavan-assessment-frontend/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/pavan-assessment-frontend/index.html",
+    "main.d7f7d52d.css.map": "/pavan-assessment-frontend/static/css/main.d7f7d52d.css.map",
+    "main.b826be69.js.map": "/pavan-assessment-frontend/static/js/main.b826be69.js.map",
+    "453.c1bfc3e2.chunk.js.map": "/pavan-assessment-frontend/static/js/453.c1bfc3e2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d7f7d52d.css",
+    "static/js/main.b826be69.js"
+  ]
+}
